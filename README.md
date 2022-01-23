@@ -22,4 +22,5 @@ local blips = {
 Adding in blip's is completely customizeable, you can easily change them if you'd like, or add more if you'd like. Click the item's below, for blip ID's as FiveM doesn't have all of the blips available in there documentation.
 
 [FiveM Blips Docs](https://docs.fivem.net/docs/game-references/blips/)
+
 [GTA Network Wiki](https://wiki.gtanet.work/index.php?title=Blips)
