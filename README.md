@@ -17,7 +17,6 @@ local blips = {
     {title="LtD", colour=0, id=59, x=-51.77, y=-1755.6, z=29.42}, -- Grove St LtD Station
     {title="Hair Salon", colour=0, id=71, x=-821.79, y=-187.17, z=37.57}, -- Rockford Hills Hair Salon
     {title="Ponsonbys", colour=0, id=73, x=-715.44, y=-155.87, z=37.42}, -- Rockford Hills Ponsonbys
-    {title="Ponsonbys", colour=0, id=121, x=-130.71, y=-1294.68, z=29.27}, -- Rockford Hills Ponsonbys
 }
 ```
 Adding in blip's is completely customizeable, you can easily change them if you'd like, or add more if you'd like. Click the item's below, for blip ID's as FiveM doesn't have all of the blips available in there documentation.
