@@ -1,6 +1,8 @@
 # Raccoons-Blips
 An easy-to-use script, for creating blips across your FiveM maps, can be used for custom maps, or San Andreas.
 
+<img src="https://profile-counter.glitch.me/Raccoon-Whitelist/count.svg" />
+
 ## Frequently Asked Questions
 
 ### Some blips are't showing why is that?
