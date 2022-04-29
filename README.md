@@ -10,7 +10,7 @@ Need support? Join the Discord, and make a ticket I'll be happy to help when ava
 If you are using Blips from [FiveM's Docs](https://docs.fivem.net/docs/game-references/blips/) there could be a chance you are not running that game build, which is why you are not seeing the blip's show up.
 
 ### If I want blips that use a different game build to work, how do I change the server's game build?
-Open up your server.cfg file, and put this anywhere in your server.cfg ```+set sv_enforceGameBuild [build]``` [build] being the build number, or name you want to use. [Click here](https://docs.fivem.net/docs/server-manual/server-commands/) for FiveM's available game build's.
+Open up your server.cfg file, and put this anywhere in your server.cfg ```+set sv_enforceGameBuild [build]``` [build] being the build number, or name you want to use. [Click here](https://docs.fivem.net/docs/server-manual/server-commands/#sv_enforcegamebuild-build) for FiveM's available game build's.
 
 ## Configuration
 ```lua
