@@ -2,7 +2,7 @@
 An easy-to-use script, for creating blips across San Andreas & custom maps!
 
 <img src="https://profile-counter.glitch.me/Raccoons-Blips/count.svg" />
-Need support? Join the Discord, and make a ticket I'll be happy to help when available. https://discord.gg/8TKfHkvdrY
+Need support? Join the Discord, and make a ticket I'll be happy to help when available. https://discord.gg/G4Ybg7NwQs
 
 ## Frequently Asked Questions
 
