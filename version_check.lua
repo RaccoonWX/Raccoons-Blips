@@ -7,7 +7,7 @@ local label =
   ||    / _, _/ /_/ / /__/ /__/ /_/ / /_/ / / / (__  )  / /_/ / / / /_/ (__  ) 
   ||   /_/ |_|\__,_/\___/\___/\____/\____/_/ /_/____/  /_____/_/_/ .___/____/  
   ||                                                            /_/            																													
-  ||       				Created by TheRaccoon#1023
+  ||       				Created by TheRaccoon#0001
   ||]]  
 Citizen.CreateThread(function()
 	local CurrentVersion = GetResourceMetadata(GetCurrentResourceName(), 'version', 0)
@@ -38,7 +38,7 @@ Citizen.CreateThread(function()
 			end
 		else
 			print( label )			
-			print('  ||    ^1There was an error getting the latest version information, if the issue persists contact TheRaccoon#1023 on Discord.\n^0  ||\n  \\\\\n')
+			print('  ||    ^1There was an error getting the latest version information, if the issue persists contact TheRaccoon#0001 on Discord.\n^0  ||\n  \\\\\n')
 		end
 		
 		SetTimeout(60000000, VersionCheckHTTPRequest)
